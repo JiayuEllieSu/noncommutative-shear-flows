@@ -7,12 +7,6 @@ This project explores how simple horizontal and vertical shear flows can combine
 
 The computational model uses idealized two-dimensional shear maps and periodic boundaries. It is a model of passive-particle advection, not a full Navier–Stokes simulation. Stretching and rearrangement of tracers will be distinguished from molecular mixing, which also involves diffusion.
 
-## Planned work
-
-1. Derive shear transformations from incompressible velocity fields and review their group properties.
-2. Implement horizontal, vertical, and alternating shears and visualize tracer-particle motion.
-3. Compare the order of transformations, estimate material stretching, and relate the results to the eigenvalues of the combined map.
-4. Discuss the physical interpretation and limitations of the model.
 
 ## References
 
