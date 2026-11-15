@@ -1,0 +1,7 @@
+Eigenvalues: [2.61803399 0.38196601]
+Largest Lyapunov exponent: 0.9624236501192069
+Stretch at cycle 10: 15126.999933893041 20.04987562112089
+Coarse variance at cycle 0: 19.320624000000002
+Coarse variance at cycle 6 (single, alternating, opposite): 8.727448 0.066544 19.320624000000002
+Coarse variance at cycle 8: 6.741296 0.066416 18.96812
+Uniform-sampling expectation: 0.0639375
